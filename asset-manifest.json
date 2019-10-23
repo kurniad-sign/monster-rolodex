@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "kurniad-sign.github.io/monster-rolodex/static/css/main.9618fc9a.chunk.css",
+    "main.js": "kurniad-sign.github.io/monster-rolodex/static/js/main.0d47162a.chunk.js",
+    "main.js.map": "kurniad-sign.github.io/monster-rolodex/static/js/main.0d47162a.chunk.js.map",
+    "runtime-main.js": "kurniad-sign.github.io/monster-rolodex/static/js/runtime-main.49302163.js",
+    "runtime-main.js.map": "kurniad-sign.github.io/monster-rolodex/static/js/runtime-main.49302163.js.map",
+    "static/js/2.3860c490.chunk.js": "kurniad-sign.github.io/monster-rolodex/static/js/2.3860c490.chunk.js",
+    "static/js/2.3860c490.chunk.js.map": "kurniad-sign.github.io/monster-rolodex/static/js/2.3860c490.chunk.js.map",
+    "index.html": "kurniad-sign.github.io/monster-rolodex/index.html",
+    "precache-manifest.43386753463c71b90412744a0d4ee26d.js": "kurniad-sign.github.io/monster-rolodex/precache-manifest.43386753463c71b90412744a0d4ee26d.js",
+    "service-worker.js": "kurniad-sign.github.io/monster-rolodex/service-worker.js",
+    "static/css/main.9618fc9a.chunk.css.map": "kurniad-sign.github.io/monster-rolodex/static/css/main.9618fc9a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49302163.js",
+    "static/js/2.3860c490.chunk.js",
+    "static/css/main.9618fc9a.chunk.css",
+    "static/js/main.0d47162a.chunk.js"
+  ]
+}
